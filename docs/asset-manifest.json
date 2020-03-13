@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todo-list-cra-platform/static/css/main.5f361e03.chunk.css",
+    "main.js": "/todo-list-cra-platform/static/js/main.96e25bed.chunk.js",
+    "main.js.map": "/todo-list-cra-platform/static/js/main.96e25bed.chunk.js.map",
+    "runtime-main.js": "/todo-list-cra-platform/static/js/runtime-main.e86d2cca.js",
+    "runtime-main.js.map": "/todo-list-cra-platform/static/js/runtime-main.e86d2cca.js.map",
+    "static/js/2.974697ff.chunk.js": "/todo-list-cra-platform/static/js/2.974697ff.chunk.js",
+    "static/js/2.974697ff.chunk.js.map": "/todo-list-cra-platform/static/js/2.974697ff.chunk.js.map",
+    "index.html": "/todo-list-cra-platform/index.html",
+    "precache-manifest.6f1ca94842230dc76268c60f1532ff6a.js": "/todo-list-cra-platform/precache-manifest.6f1ca94842230dc76268c60f1532ff6a.js",
+    "service-worker.js": "/todo-list-cra-platform/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/todo-list-cra-platform/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.974697ff.chunk.js.LICENSE.txt": "/todo-list-cra-platform/static/js/2.974697ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e86d2cca.js",
+    "static/js/2.974697ff.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.96e25bed.chunk.js"
+  ]
+}

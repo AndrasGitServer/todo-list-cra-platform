@@ -1,5 +1,6 @@
 {
   "name": "todo-list-cra-platform",
+  "homepage": "https://AndrasGitServer.github.io/todo-list-cra-platform/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
